@@ -78,27 +78,4 @@ Error Handling: Prevents crashes from invalid input
 
 Cross-Platform: Standard C++ works on any system
 
-🎮 How to Play
-Choose rounds: Enter number of rounds (1-10)
 
-Make your move: Select Stone (1), Paper (2), or Scissors (3)
-
-Watch the computer: Computer makes random choice
-
-See results: Each round shows winner
-
-Final tally: Complete statistics after all rounds
-
-Play again: Choose Y to play another match
-
-📊 Sample Output
-
-Game Rounds        : 3
-Player1 won times  : 2
-Computer won times : 0
-Draw times         : 1
-Final Winner       : Player1
-
-Clear Screen: Fresh interface for each new game
-
-Input Validation: Ensures valid choices (1-3) and round count (1-10)
